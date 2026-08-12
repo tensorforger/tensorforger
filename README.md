@@ -1,10 +1,23 @@
 # Hi there 👋
 
-I'm an **ML developer** and **Generative AI researcher** focused on building practical systems that make AI faster, smarter, and more accessible.
+My name is **Ainur** or **TensorForger** and I'm a **Generative AI researcher**.
 
-I use this space to share experiments, open-source tools, and ideas around applied machine learning, real-time AI, and creative workflows.
+## What I'm building:
 
-Feel free to explore my projects, reuse code, and build something on top of it.
+- Image and Video generative models of all kinds
+- World Models and there extensions
+- Real-Time inference engines for small GPUs
+
+## Generative AI Modalities:
+
+- Image
+- Video
+- Stream
+
+## Featured Projects:
+
+- [FluxRT](https://github.com/tensorforger/FluxRT) - Real-Time inference engine for Flux.2
+- [FlowUpscaler](https://github.com/tensorforger/comfyui-flow-upscaler) - Custom latent upscale model
 
 ## Tech Stack
 
@@ -13,16 +26,3 @@ Feel free to explore my projects, reuse code, and build something on top of it.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-## Currently Working On
-
-Low-latency AI image editing pipelines and turning them into real-time production apps.
-
-## Interests
-
-- Generative AI  
-- Computer Vision  
-- AI Tooling  
-- Performance Optimization  
-- Real-time Systems  
-- Developer Products
