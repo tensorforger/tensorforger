@@ -1,11 +1,11 @@
 # Hi there 👋
 
-My name is **Ainur** or **TensorForger** and I'm a **Generative AI researcher**.
+My name is **TensorForger** and I'm a **Generative AI researcher**.
 
 ## What I'm building:
 
 - Image and Video generative models of all kinds
-- World Models and there extensions
+- World Models and there extensions (soon, stay tuned)
 - Real-Time inference engines for small GPUs
 
 ## Generative AI Modalities:
