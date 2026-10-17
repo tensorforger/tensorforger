@@ -16,7 +16,7 @@ My name is **TensorForger** and I'm a **Generative AI researcher**.
 
 ## Featured Projects:
 
-- [LatentStorageBenchmark](https://github.com/tensorforger/LatentStorageBenchmark) - How to store VAE latents efficiently?
+- [VaeZip](https://github.com/tensorforger/VaeZip) - Efficient compression algorithms for VAE latents
 - [FluxRT](https://github.com/tensorforger/FluxRT) - Real-Time inference engine for Flux.2
 - [FlowUpscaler](https://github.com/tensorforger/comfyui-flow-upscaler) - Custom latent upscale model
 
